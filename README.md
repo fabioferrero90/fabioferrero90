@@ -2,7 +2,7 @@
 <hr>
 
 - Currently studing to work as a Full-Stack Web Developer on Boolean Academy
-- Most of the project published on this github profile are made by scratch and just for fun and to learn more programming skills
+- Most of the projects published on this github profile are made by scratch and just for fun and to learn more programming skills
 - How to reach me: You can easily contact me sending a message here on GitHub or sending an email to fabio.ff90@gmail.com
 
 ## 🌐 Socials:
