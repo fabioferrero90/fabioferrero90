@@ -1,8 +1,8 @@
 ## 💫 About Me:
 <hr>
 
-- 5 Years self-taught LUA / FiveM / Wordpress Developer
-- Currently studing to certify as a Full-Stack Web Developer on Boolean Academy
+- 5 Years self-taught LUA / FiveM Developer
+- 1 Year Front-End Web Developer
 - Most of the projects published on this github profile are made by scratch just for fun and to learn more programming skills
 - How to reach me? You can easily contact me sending a message here on GitHub or sending an email to fabio.ff90@gmail.com
 
