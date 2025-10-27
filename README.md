@@ -7,7 +7,7 @@
   - [Blinker on App Store](https://apps.apple.com/it/app/blinker/id6751835774)
   - [Blinker on Google Play](https://play.google.com/store/apps/details?id=com.blinker.app)
 - Most of the projects published on this github profile are made from scratch just for fun and to learn more programming skills
-- Visit my personal website: [https://fabioferrero.fulldevs.it/chi-sono](https://fabioferrero.fulldevs.it/chi-sono)
+- Visit my personal website: [https://fabioferrero.fulldevs.it](https://fabioferrero.fulldevs.it)
 - How to reach me? You can easily contact me sending a message here on GitHub or sending an email to [fabio.ff90@gmail.com](mailto:fabio.ff90@gmail.com)
 
 ## 🌐 Socials:
