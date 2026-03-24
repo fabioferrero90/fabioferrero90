@@ -2,7 +2,7 @@
 <hr>
 
 - 5 Years self-taught LUA / FiveM Developer
-- 1 Year Front-End Web Developer
+- 2 Year Front-End Web Developer
 - Creator & developer of the Blinker app:
   - [Blinker on App Store](https://apps.apple.com/it/app/blinker/id6751835774)
   - [Blinker on Google Play](https://play.google.com/store/apps/details?id=com.blinker.app)
