@@ -10,7 +10,7 @@
   - Vertical ERP / CRM platforms for gyms, beach clubs and restaurants
 - 6 years self-taught LUA / FiveM Developer
 - Most of the projects published on this GitHub profile are made from scratch just for fun and to learn new programming skills
-- Visit my personal website: [https://fabioferrero.fulldevs.it](https://fabioferrero.fulldevs.it)
+- Visit my personal website: [https://fabioferrero.dev](https://fabioferrero.dev)
 - How to reach me? Send me an email at [fabio.ff90@gmail.com](mailto:fabio.ff90@gmail.com)
 
 ## 🌐 Socials:
